@@ -81,7 +81,7 @@ root@github:~$ cat ./links.sh
 ```bash
 #!/bin/bash
 echo "→ GitHub   : github.com/BadOctop4s"
-echo "→ Instagram: instagram.com/BadOctop4s"
+echo "→ Instagram: instagram.com/_eodraxkk"
 echo "→ Brand    : SyncX"
 ```
 
