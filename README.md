@@ -37,7 +37,7 @@ $ cat about.txt
 ```
 📁 SyncX/
 ├── 💬 SyncX Chat         — iOS messaging app (React Native + Supabase · E2E encrypted)
-├── ☠️  SyncX Zero Hour    — C# WinForms cheat tool for Android emulators
+├── ☠️  SyncX Cheats    — C# WinForms & C++ cheat tool for PC and Android
 ├── 👑 Royal Hub          — Roblox script hub (Lua, open-source)
 └── 🌐 SyncX Website      — brand page, single-file animated dark site
 ```
