@@ -84,9 +84,9 @@ $ cat about.txt
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wzm-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wzm-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzm-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c9d1d9)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wzm-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c9d1d9)
 
 </div>
 
