@@ -2,51 +2,33 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ██╗    ██╗███████╗███╗   ███╗      ██████╗ ███████╗██╗   ██╗  ║
-║  ██║    ██║╚══███╔╝████╗ ████║      ██╔══██╗██╔════╝██║   ██║  ║
-║  ██║ █╗ ██║  ███╔╝ ██╔████╔██║█████╗██║  ██║█████╗  ██║   ██║  ║
-║  ██║███╗██║ ███╔╝  ██║╚██╔╝██║╚════╝██║  ██║██╔══╝  ╚██╗ ██╔╝  ║
-║  ╚███╔███╔╝███████╗██║ ╚═╝ ██║      ██████╔╝███████╗ ╚████╔╝   ║
-║   ╚══╝╚══╝ ╚══════╝╚═╝     ╚═╝      ╚═════╝ ╚══════╝  ╚═══╝    ║
-║                                                                  ║
-║                [ wzm-dev :: SyncX Developer ]                   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Math&size=30&duration=3900&pause=954&color=F70000&background=6E6E6E00&center=true&vCenter=true&width=435&lines=I+don't+know+why+they+hate+on+me)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libertinus+Math&size=18&duration=4000&pause=954&color=F70000&background=6E6E6E00&center=true&vCenter=true&width=435&lines=They+can+smell+the+legacy)](https://git.io/typing-svg)
 
 </div>
 
 ```bash
-$ whoami
-> wzm-dev — indie dev. builder of things that probably shouldn't exist.
+> wzm-dev
 
-$ cat about.txt
-> Running SyncX since day one.
-> Ships apps, tools, hubs, and chaos — sometimes all at once.
-> C# | C++ | Lua | TypeScript | Python | Swift
-> Windows + Arch Linux (CachyOS / KDE)
-> Interests: terminal UIs · cyberpunk aesthetics · steganography · puzzle-making · reverse engineering
+I'm a developer focused on learning C++, UI development and game-related projects.
+
+Currently learning:
+· C++
+· Dear ImGui
+· C#
+· Reverse engineering
+· Web development
 ```
 
------
-
-## `~/projects`
-
-```
-📁 SyncX/
-├── 💬 SyncX Chat         — iOS messaging app (React Native + Supabase · E2E encrypted)
-├── ☠️  SyncX Cheats    — C# WinForms & C++ cheat tool for PC and Android (ImGui overlays)
-├── 👑 Royal Hub          — Roblox script hub (Lua, open-source)
-└── 🌐 SyncX Website      — brand page, single-file animated dark site
-```
-
------
-
-## `~/stack`
 
 <div align="center">
+
+  ## Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -64,18 +46,16 @@ $ cat about.txt
 
 </div>
 
+
 -----
 
-## `~/os`
+## `~/projects`
 
 ```
-┌─[wzm-dev@syncx]─[~]
-└──╼ $ neofetch
-
-  OS       : Windows 11 · CachyOS (Arch) / KDE
-  IDE      : Visual Studio · VS Code
-  Theme    : dark. always dark.
-  Terminal : aesthetic > everything
+📁 SyncX/
+├──  SyncX Cheats    — C# WinForms & C++ cheat tool for PC and Android (ImGui overlays)
+├──  Royal Hub          — Roblox script hub (Lua, open-source)
+└──  SyncX Website      — brand page, single-file animated dark site
 ```
 
 -----
@@ -97,7 +77,7 @@ $ cat about.txt
 ```python
 links = {
     "github"    : "github.com/wzm-dev",
-    "instagram" : "@wzm-dev",
+    "instagram" : "@_eodraxkk",
     "brand"     : "SyncX",
 }
 
