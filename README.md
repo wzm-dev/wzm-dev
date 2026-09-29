@@ -53,9 +53,9 @@ Currently learning:
 
 ```
 📁 SyncX/
-├──  SyncX Cheats    — C# WinForms & C++ cheat tool for PC and Android (ImGui overlays)
-├──  Royal Hub          — Roblox script hub (Lua, open-source)
-└──  SyncX Website      — brand page, single-file animated dark site
+├──  SyncX Cheats    — C# WinForms & C++ cheat tool for PC (ImGui overlays)
+├──  Strelitzia       — Roblox script hub
+└──  SyncX Website      — brand page 
 ```
 
 -----
@@ -76,12 +76,9 @@ Currently learning:
 
 ```python
 links = {
-    "github"    : "github.com/wzm-dev",
     "instagram" : "@_eodraxkk",
     "brand"     : "SyncX",
 }
-
-print("find me if you can.")
 ```
 
 -----
@@ -89,7 +86,7 @@ print("find me if you can.")
 <div align="center">
 
 ```
-[ SyncX © wzm-dev — built different, shipped anyway ]
+[ SyncX © wzm-dev ]
 ```
 
 *"any sufficiently advanced cheat tool is indistinguishable from magic."*
